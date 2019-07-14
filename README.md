@@ -2,7 +2,7 @@
 
 A simple color scheme for Vim, inspired by Jellybeans and Tomorrow Night.
 
-## The Palette
+## The Color Palette
 ![alt tag](https://raw.githubusercontent.com/dcapo/friendly-colors/master/images/friendly.png)
 
 ## Screenshots
